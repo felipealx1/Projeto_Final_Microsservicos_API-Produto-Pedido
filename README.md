@@ -10,7 +10,7 @@
             <li>Caio césar  RGM : 38091399 </li>
             <li>Vitor Cauê Guimarães Travassos  RGM:  380546621</li>
             <li>William Felix de Souza  RGM: 39699013</li>
-            <li>Jóse Felipe Alexandre Martins  RGM: 39364429</li>
+            <li>José Felipe Alexandre Martins  RGM: 39364429</li>
         </ul>
     </header>
 
